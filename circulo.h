@@ -47,7 +47,6 @@ int circ_concentricos(Circulo *c1, Circulo *c2);
  * */
 float circ_raio(Circulo *c);
 
-
 /**!
  * @brief Função que obtém as coordenadas do circulo 
  * @param c circulo a ser extraído a coordenada
